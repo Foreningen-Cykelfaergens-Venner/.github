@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## The official Github account for the Bicycle ferry.
+<p>Find open source projects by Foreningen Cykelfaergens Venner.</p>
 <!--
 
 **Here are some ideas to get you started:**
